@@ -1,4 +1,4 @@
-# FRC-Resources
+# FRC Resources
 This information should be useful to team members and mentors alike.
 
 ## General FRC Resources
