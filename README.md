@@ -15,7 +15,7 @@ This information should be useful to team members and mentors alike.
 ### Required software
 * [WPILib](https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-2/wpilib-setup.html) (this package includes the VSCode IDE)
 * [Driver Station (NI)](https://docs.wpilib.org/en/stable/docs/software/driverstation/driver-station.html)
-* `All software must be updated each season`
+* `All software must be updated each season` (update all device firmware too)
 ### Example projects
 * [WPILib Example Projects](https://docs.wpilib.org/en/stable/docs/software/examples-tutorials/wpilib-examples.html) (numerous examples)
 * [Third Party Example Projects](https://docs.wpilib.org/en/stable/docs/software/examples-tutorials/third-party-examples.html)
