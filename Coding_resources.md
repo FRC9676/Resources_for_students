@@ -1,4 +1,6 @@
-# Programming resources for students
+# Coding resources for students
+9676 uses command-based JAVA.
+
 ## Required software
 * [WPILib](https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-2/wpilib-setup.html) (this package includes the VSCode IDE)
 * [Driver Station (NI)](https://docs.wpilib.org/en/stable/docs/software/driverstation/driver-station.html)
