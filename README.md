@@ -21,12 +21,12 @@ This information should be useful to team members and mentors alike.
 * [Third Party Example Projects](https://docs.wpilib.org/en/stable/docs/software/examples-tutorials/third-party-examples.html)
 
 ### Video tutorials
-* [Introduction to FRC Command-Based Coding in Java](https://www.youtube.com/watch?v=W0UNi3aBiEY) (2023)
+* [Introduction to FRC Command-Based Coding in Java](https://www.youtube.com/watch?v=W0UNi3aBiEY) (START HERE, 2023)
 * [FRC 0 to Autonomous: #5 Command-Based Robot](https://youtu.be/VoxeXqy1bdQ?si=7MDRG4DjDd4igYz7) (command, elevator, 2021)
 
 ## Scouting
 ### Websites/Apps
-* https://www.thebluealliance.com/ (team and event stats, some scouting metrics, links to event/matches videos/replays)
-* https://www.statbotics.io/ (team and event stats, scouting metrics)
+* [The Blue Alliance](https://www.thebluealliance.com/) (team and event stats, some scouting metrics, links to event/matches videos/replays)
+* [Statbotics](https://www.statbotics.io/) (team and event stats, scouting metrics)
 * [Twitch - FirstInspires](https://www.twitch.tv/firstinspires) (live streams of all competition events)
 * [First Updates Now (FUN) YouTube](https://www.youtube.com/@funroboticsnetwork) (FRC news & info - Youtube)
