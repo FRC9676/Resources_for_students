@@ -11,10 +11,5 @@ This information should be useful to team members and mentors alike.
 * Robot in 3 Days (RI3D)
 * [FRC Open Alliance](https://www.chiefdelphi.com/c/first/open-alliance/89) 
 
-
-## Scouting
-### Websites/Apps
-* [The Blue Alliance](https://www.thebluealliance.com/) (team and event stats, some scouting metrics, links to event/matches videos/replays)
-* [Statbotics](https://www.statbotics.io/) (team and event stats, scouting metrics)
-* [Twitch - FirstInspires](https://www.twitch.tv/firstinspires) (live streams of all competition events)
-* [First Updates Now (FUN) YouTube](https://www.youtube.com/@funroboticsnetwork) (FRC news & info - Youtube)
+## [Programming](https://github.com/FRC9676/FRC-Resources/blob/main/Programming_resources.md)
+## [Scouting](https://github.com/FRC9676/FRC-Resources/blob/main/Scouting_resources.md)
