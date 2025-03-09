@@ -3,7 +3,7 @@
 
 ## Required software
 * [WPILib](https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-2/wpilib-setup.html) (this package includes the VSCode IDE)
-* [Driver Station (NI)](https://docs.wpilib.org/en/stable/docs/software/driverstation/driver-station.html)
+* [FRC Game Tools - National Instruments (NI)](https://www.ni.com/en/support/downloads/drivers/download.frc-game-tools.html#553883) (includes Driver Station)
 * `All software must be updated each season` (update all device firmware too)
 ## Example projects
 * [WPILib Example Projects](https://docs.wpilib.org/en/stable/docs/software/examples-tutorials/wpilib-examples.html) (numerous examples)
