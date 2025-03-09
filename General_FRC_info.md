@@ -2,14 +2,13 @@
 This information should be useful to team members and mentors alike.
 
 ## General FRC
-* https://docs.wpilib.org/en/stable/index.html
-* https://robotics.nasa.gov/frc-resources/
-* https://spectrum3847.org/recommendedreading/
-* https://www.chiefdelphi.com/ (*the* FRC forum)
+* [WPILib documentation](https://docs.wpilib.org/en/stable/index.html)
+* [Robotics Alliance Project - FRC Resources (NASA)](https://robotics.nasa.gov/frc-resources/)
+* [Chief Delphi forums](https://www.chiefdelphi.com/) (*the* FRC forum)
 
-## Design
-* Robot in 3 Days (RI3D)
-* [FRC Open Alliance](https://www.chiefdelphi.com/c/first/open-alliance/89) 
+## FRC Strategy
+* [Effective FIRST Strategies 2024 | Karthik Kanagasabapathy](https://www.youtube.com/live/ENJu0In8YV8?si=969rJhxYVG-6J56J)
 
+## [Design](https://github.com/FRC9676/FRC-Resources/blob/main/Design_resources.md)
 ## [Programming](https://github.com/FRC9676/FRC-Resources/blob/main/Programming_resources.md)
 ## [Scouting](https://github.com/FRC9676/FRC-Resources/blob/main/Scouting_resources.md)
