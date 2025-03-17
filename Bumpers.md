@@ -3,7 +3,9 @@
 ### Bumper materials
 
 #### Numbers & decals
-* [Premier Printing](https://premierprintinginc.com/) (local) quoted $64 & tax for 8 sets of numbers (2025).
+* [Premier Printing](https://premierprintinginc.com/) (local)
+ * Quoted $64 & tax for 8 sets of numbers (2025)
+ * Cut vinyl & heat application available
 * RoboPromo offers a variety of number options and they'll send free FIRST logos graphics for the bumpers (part of the Virtual Crate).
 
 #### Fabric
