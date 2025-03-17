@@ -1,4 +1,4 @@
-# Bumper Info
+# Bumper guide
 
 ## Bumper materials
 
@@ -10,14 +10,14 @@
 * [RoboPromo](https://www.robopromo.com/) offers a variety of number options and they'll send free FIRST logos graphics for the bumpers (part of the Virtual Crate).
 
 #### Applying graphics:
-> Per RoboPromo:
-> * For Regular Bumper Fabric, apply the numbers to the shiny side.
-> * For Super Slick or Super Tough, apply them to the dull side.
-
+Per RoboPromo:
+* For Regular Bumper Fabric, apply the numbers to the shiny side.
+* For Super Slick or Super Tough, apply them to the dull side.
+---
 ### Fabric
 * We've mostly used RoboPromo bumper materials as the crates have contained their fabrics.
 
-
+---
 ### Bumper mounts
 * [AndyMark AM14U](https://www.andymark.com/products/am14u-family-bumper-brackets-and-fasteners-kit)
   * Has been included with the Kit of Parts
