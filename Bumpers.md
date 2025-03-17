@@ -24,3 +24,4 @@ Per RoboPromo:
   * Comments: appears to be much easier to install and use
 
 # Bumper construction & assembly
+* [FIRST Robotics Competition Bumper Guide](https://www.firstinspires.org/sites/default/files/uploads/resource_library/frc/technical-resources/frc_bumperguide.pdf) (38-pages, 2025)
