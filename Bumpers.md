@@ -4,9 +4,9 @@
 
 #### Numbers & decals
 * [Premier Printing](https://premierprintinginc.com/) (local)
- * Quoted $64 & tax for 8 sets of numbers (2025)
- * Cut vinyl & heat application available
-* RoboPromo offers a variety of number options and they'll send free FIRST logos graphics for the bumpers (part of the Virtual Crate).
+  * Quoted $64 & tax for 8 sets of numbers (2025)
+  * Cut vinyl & heat application available
+* [RoboPromo](https://www.robopromo.com/) offers a variety of number options and they'll send free FIRST logos graphics for the bumpers (part of the Virtual Crate).
 
 #### Fabric
 * We've mostly used RoboPromo bumper materials as the crates have contained their fabrics.
