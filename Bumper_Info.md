@@ -1,4 +1,4 @@
-#Bumper-info
+#Bumper Info
 
 ###Bumper materials
 *We've mostly used RoboPromo bumper materials.
