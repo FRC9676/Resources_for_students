@@ -25,3 +25,5 @@
   * fussy, probably overkill, we could do better
 * [RoboPromo Stud Plate Bumper Bracket Kit](https://www.robopromo.com/product_p/rp-2031.htm)
   * Comments: appears to be much easier to install and use
+
+## Bumper construction & assembly
