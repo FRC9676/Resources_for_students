@@ -5,6 +5,9 @@
 * [Premier Printing](https://premierprintinginc.com/) (local)
   * Quoted $64 & tax for 8 sets of numbers (2025)
   * Cut vinyl & heat application available
+* [Quik Print](https://quikprintllc.com/)
+  * Cut vinyl number for $75 w/ tax (2025)
+  * Subtract $15 for identical numbers (setup fee)
 * [RoboPromo](https://www.robopromo.com/) offers a variety of number options and they'll send free FIRST logos graphics for the bumpers (part of the Virtual Crate).
 
 ### Applying graphics:
@@ -25,3 +28,5 @@ Per RoboPromo:
 
 # Bumper construction & assembly
 * [FIRST Robotics Competition Bumper Guide](https://www.firstinspires.org/sites/default/files/uploads/resource_library/frc/technical-resources/frc_bumperguide.pdf) (38-pages, 2025)
+* [AM14U4 & AM14U5 Bumper Assembly - AndyMark YT](https://youtu.be/TK4s2QwKYeg?si=1Pu0YPQ12YzlQJ1w)
+* Using the C2Makerspace press, 15s @ 375F worked but did melt the vinyl cloth a bit. Covering with fabric helped, but a proper setup should be researched.
