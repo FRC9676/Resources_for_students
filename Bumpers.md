@@ -30,3 +30,4 @@ Per RoboPromo:
 * [FIRST Robotics Competition Bumper Guide](https://www.firstinspires.org/sites/default/files/uploads/resource_library/frc/technical-resources/frc_bumperguide.pdf) (38-pages, 2025)
 * [AM14U4 & AM14U5 Bumper Assembly - AndyMark YT](https://youtu.be/TK4s2QwKYeg?si=1Pu0YPQ12YzlQJ1w)
 * Using the C2Makerspace press, 15s @ 375F worked but did melt the vinyl cloth a bit. Covering with fabric helped, but a proper setup should be researched.
+* The bumper backing can be taller than the soft parts of the bumper - use that fact to avoid concerns about full coverage of the "bumper zone."
