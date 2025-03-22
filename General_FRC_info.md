@@ -7,6 +7,7 @@ This information should be useful to team members and mentors alike.
 * [Chief Delphi forums](https://www.chiefdelphi.com/) (*the* FRC forum)
 
 ## FRC Strategy
+* As a small, less-experienced, lower resource team, selecting a robot design that will [complement](https://www.merriam-webster.com/grammar/complement-and-compliment-usage-difference) robots that will be picking in Finals seems like an optimal strategy.
 * [Effective FIRST Strategies 2024 | Karthik Kanagasabapathy](https://www.youtube.com/live/ENJu0In8YV8?si=969rJhxYVG-6J56J)
 
 ## [Design](https://github.com/FRC9676/FRC-Resources/blob/main/Design_resources.md)
