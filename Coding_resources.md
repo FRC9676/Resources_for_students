@@ -12,8 +12,8 @@
 * [Third Party Example Projects](https://docs.wpilib.org/en/stable/docs/software/examples-tutorials/third-party-examples.html)
 
 ## Video tutorials
-* [Introduction to FRC Command-Based Coding in Java](https://www.youtube.com/watch?v=W0UNi3aBiEY) (START HERE, 2023)
-* [FRC 0 to Autonomous: #5 Command-Based Robot](https://youtu.be/VoxeXqy1bdQ?si=7MDRG4DjDd4igYz7) (command, elevator, 2021)
-
+* [Introduction to FRC Command-Based Coding in Java](https://www.youtube.com/watch?v=W0UNi3aBiEY) (2023)
+* [Virtual Robotics Studio (VRS) - FIRST in Michigan YouTube](https://youtu.be/rogdNaLl_s8?si=n2-GcBLeUEuDWYpH) `updated annual, use most recent version`
+* `Due to frequent software updates, use of recent tutorials is recommended`
 ## XRP robot
 * [2024 XRP Coding series - FIRSTinMichigan](https://www.youtube.com/watch?v=Nlk52QdoasE&list=PL6fCSvDccI_6WcjBqj2C3J-VmyX9Yv0Zl)
