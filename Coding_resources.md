@@ -15,5 +15,9 @@
 * [Introduction to FRC Command-Based Coding in Java](https://www.youtube.com/watch?v=W0UNi3aBiEY) (2023)
 * [Virtual Robotics Studio (VRS) - FIRST in Michigan YouTube](https://youtu.be/rogdNaLl_s8?si=n2-GcBLeUEuDWYpH) `updated annually; use the most recent version`
 * `Due to frequent software updates, use of recent tutorials is recommended`
+
+## Navigation
+* [QuestNAV](https://github.com/juchong/QuestNav)
+
 ## XRP robot
 * [2024 XRP Coding series - FIRSTinMichigan](https://www.youtube.com/watch?v=Nlk52QdoasE&list=PL6fCSvDccI_6WcjBqj2C3J-VmyX9Yv0Zl)
