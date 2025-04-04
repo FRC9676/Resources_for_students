@@ -21,3 +21,7 @@
 
 ## XRP robot
 * [2024 XRP Coding series - FIRSTinMichigan](https://www.youtube.com/watch?v=Nlk52QdoasE&list=PL6fCSvDccI_6WcjBqj2C3J-VmyX9Yv0Zl)
+
+
+## Resources
+[Quick links for FRC programming & software resources (vendor docs cheatsheet)](https://frc.sh/)
