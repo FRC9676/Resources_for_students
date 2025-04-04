@@ -19,6 +19,10 @@
 ## Navigation
 * [QuestNAV](https://github.com/juchong/QuestNav)
 
+## Logging
+* [AdvantageKit](https://docs.advantagekit.org/getting-started/what-is-advantagekit)
+* [WPILib - On-Robot Telemetry Recording Into Data Logs](https://docs.wpilib.org/en/stable/docs/software/telemetry/datalog.html)
+
 ## XRP robot
 * [2024 XRP Coding series - FIRSTinMichigan](https://www.youtube.com/watch?v=Nlk52QdoasE&list=PL6fCSvDccI_6WcjBqj2C3J-VmyX9Yv0Zl)
 
