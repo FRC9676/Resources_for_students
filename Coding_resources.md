@@ -24,4 +24,4 @@
 
 
 ## Resources
-[Quick links for FRC programming & software resources (vendor docs cheatsheet)](https://frc.sh/)
+* [Quick links for FRC programming & software resources (vendor docs cheatsheet)](https://frc.sh/)
